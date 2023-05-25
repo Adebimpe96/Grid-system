@@ -13,6 +13,10 @@ body {
   font-size: 13px;
 }
 
+.header-title{
+text-align: center;
+}
+
 .testimonials {
   max-width: 1440px;
   margin: 100px auto;
